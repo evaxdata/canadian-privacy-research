@@ -6,8 +6,10 @@ The log is intended to grow over time. New entries are added as research is comp
 
 ---
  
-**Author**: Linda Eva Seuna 
+**Author**: Linda Eva Seuna
+
 **Role**: Data & Privacy Contributor, GLOCAL Foundation of Canada
+
 **Latest Update**: April 2026
  
 ---

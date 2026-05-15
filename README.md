@@ -1,8 +1,6 @@
-# Canadian Privacy Laws & AI-Risks Research 
+# Canadian Privacy Laws, AI-Risks, & Responsible Data Use Research 
  
-This project log is a collection of 150+ hours of applied research on Canadian privacy laws, AI-related privacy risks, and data governance implications, completed for the GLOCAL Foundation of Canada.
-
-It examines how personal information is protected across Canada, how AI technologies can challenge privacy rights, and what organizations should consider when using data responsibly in an AI-driven environment.
+This collection of 150+ hours of research work examines how personal information is protected across Canada, how AI technologies can challenge privacy rights, and what organizations should consider when using data responsibly in an AI-driven environment.
 
 The log is intended to grow over time. New entries are added as research is completed, and earlier entries may be revisited or expanded as the regulatory landscape evolves.
 
